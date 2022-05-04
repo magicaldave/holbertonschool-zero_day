@@ -1,0 +1,1 @@
+This directory contains task files for the Emacs assignment, assigned for Day Zero at Holberton school. 
