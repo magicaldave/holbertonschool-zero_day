@@ -1,0 +1,1 @@
+This directory contains assignment files for the Holberton Day-Zero vi project.
